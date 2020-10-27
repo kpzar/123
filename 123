@@ -205,7 +205,3 @@ http://internetowa.tv/?c=hlsPlay&channel=eskatv&token=31890c057fc44ba43dd5a35a86
 http://internetowa.tv/?c=hlsPlay&channel=polotv&token=31890c057fc44ba43dd5a35a86617b767c788eac64be4d4d4573c0dc2a911465385abcc237134c11f7cff5159d7428a5b9375946395c18f8e0582a1d0c05826d
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/disco-polo-music.png" ,Disco Polo Music
 http://internetowa.tv/?c=hlsPlay&channel=discopolomusic&token=31890c057fc44ba43dd5a35a86617b767c788eac64be4d4d4573c0dc2a911465385abcc237134c11f7cff5159d7428a5b9375946395c18f8e0582a1d0c05826d
-[code]
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-55.png" ,KSW 55
-http://internetowa.tv/?c=hlsPlay&channel=ppv&token=31890c057fc44ba43dd5a35a86617b767c788eac64be4d4d4573c0dc2a911465385abcc237134c11f7cff5159d7428a5b9375946395c18f8e0582a1d0c05826d
-[/code]
